@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+_CommonRedist/
+Cities_Data/
+Files/
+Mono/
+Tools/
+Cities.exe
+colossal.cgs
+steam_api64.dll
+*.log
