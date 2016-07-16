@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cameraMoveSpeed>23.75</cameraMoveSpeed>
+  <cameraRotationSensitivity>1</cameraRotationSensitivity>
+  <snapToGround>true</snapToGround>
+  <groundOffset>3.5</groundOffset>
+  <toggleFPSCameraHotkey>Tab</toggleFPSCameraHotkey>
+  <showMouseHotkey>Minus</showMouseHotkey>
+  <goFasterHotKey>Period</goFasterHotKey>
+  <goFasterSpeedMultiplier>3.75</goFasterSpeedMultiplier>
+  <invertYAxis>false</invertYAxis>
+  <limitSpeedGround>false</limitSpeedGround>
+  <fieldOfView>45</fieldOfView>
+  <vFieldOfView>45</vFieldOfView>
+  <preventClipGround>true</preventClipGround>
+  <animateTransitions>true</animateTransitions>
+  <animationSpeed>1.5</animationSpeed>
+  <integrateHideUI>true</integrateHideUI>
+  <walkthroughModeTimer>25</walkthroughModeTimer>
+  <walkthroughModeManual>false</walkthroughModeManual>
+  <allowUserOffsetInVehicleCitizenMode>true</allowUserOffsetInVehicleCitizenMode>
+  <vehicleCameraOffsetX>0.75</vehicleCameraOffsetX>
+  <vehicleCameraOffsetY>0</vehicleCameraOffsetY>
+</Configuration>
